@@ -9,5 +9,11 @@ public class TestDemoOne {
 		System.out.println("TestONe executed successfully........");
 		
 	}
+	
+	@Test
+	public void TestTwo() {
+		System.out.println("TestTwo executed successfully........");
+		
+	}
 
 }
