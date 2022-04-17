@@ -21,6 +21,10 @@ public class TestDemoOne {
 		System.out.println("TestThree updated by person2........");
 		
 	}
-
+	@Test
+	public void TestFour() {
+		System.out.println("TestThree updated by person1........");
+		
+	}
 
 }
